@@ -18,6 +18,15 @@ h3 {
     border-radius: 20px;
     padding: 15px 32px
 }
+.social-buttons{
+    background-color: white;
+    border-color: white;
+    box-shadow: 10px 6px 6px 0 rgb(240, 255, 255);
+    padding: 15px 50px ;
+    border-radius: 20px;
+    height: fit-content;
+    margin-bottom: 15px;
+}
 
  .header{
     background-color: rgb(25,25,112);
@@ -45,7 +54,7 @@ h3 {
      
 }
 
-/* .testimonial {
+.testimonial {
     color: blanchedalmond;
     box-shadow: 10px 6px 6px 0 rgb(25,25,112);
     background: rgb(25,25,112);
@@ -54,7 +63,7 @@ h3 {
     margin: 16px ;
     max-height: 300px;
     font-size: 20px;
- } */
+ }
  
 
 
