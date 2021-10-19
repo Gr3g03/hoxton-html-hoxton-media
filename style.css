@@ -11,14 +11,15 @@ h3 {
 }
 
 
- /* div{
-     background-color: rgb(25,25,112);
-     font-size: 15px;
-     color: white;
- } */
+.buttons{
+    border-color: rgb(25,25,112);
+    color: white;
+    background-color: rgb(25,25,112);
+    border-radius: 20px;
+    padding: 15px 32px
+}
 
  .header{
-    padding: 20px 10px;
     background-color: rgb(25,25,112);
     font-size: 15px;
     font-style: normal;
