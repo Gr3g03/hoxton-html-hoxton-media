@@ -1,0 +1,60 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+h3 {
+    color:rgb(25,25,112);
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+
+
+ /* div{
+     background-color: rgb(25,25,112);
+     font-size: 15px;
+     color: white;
+ } */
+
+ .header{
+    padding: 20px 10px;
+    background-color: rgb(25,25,112);
+    font-size: 15px;
+    font-style: normal;
+    color: white;
+
+
+ }
+
+ .info{
+     padding: 30px;
+     background-color: white;
+     color: black;
+     font-size: 20px;
+     height: 100px;
+    
+ }
+ 
+.btn{
+    border-color: gold;
+    color: gold;
+    border-radius: 20px;
+    padding: 15px 32px
+     
+}
+
+
+ .footer{
+     position: absolute;
+     width: 100%;
+     padding: 0px 17px;
+     height: 250px;
+     bottom: 0;
+     background-color: rgb(25,25,112);
+     font-size: 20px;
+     color: white;
+     
+    
+ }
+
