@@ -11,14 +11,15 @@ h3 {
 }
 
 
- /* div{
-     background-color: rgb(25,25,112);
-     font-size: 15px;
-     color: white;
- } */
+.buttons{
+    border-color: rgb(25,25,112);
+    color: white;
+    background-color: rgb(25,25,112);
+    border-radius: 20px;
+    padding: 15px 32px
+}
 
  .header{
-    padding: 20px 10px;
     background-color: rgb(25,25,112);
     font-size: 15px;
     font-style: normal;
@@ -43,6 +44,20 @@ h3 {
     padding: 15px 32px
      
 }
+
+/* .testimonial {
+    color: blanchedalmond;
+    box-shadow: 10px 6px 6px 0 rgb(25,25,112);
+    background: rgb(25,25,112);
+    border-radius: 5px;
+    padding: 16px;
+    margin: 16px ;
+    max-height: 300px;
+    font-size: 20px;
+ } */
+ 
+
+
 
 
  .footer{
